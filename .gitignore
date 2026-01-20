@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (ne kačimo velike fajlove na git)
+WELFake_Dataset.csv
+data/raw/
+data/interim/
+data/processed/
+
+# Models & outputs
+models/
+reports/figures/
+
+# OS
+.DS_Store
+Thumbs.db
