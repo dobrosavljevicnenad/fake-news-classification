@@ -17,6 +17,8 @@ WELFake_Dataset.csv
 data/raw/
 data/interim/
 data/processed/
+*.csv
+notebooks/data/processed/wel_fake_clean.csv
 
 # Models & outputs
 models/
